@@ -1,5 +1,5 @@
 # Portfolio
 Portfolio of my work
 
-## [Home credit default project overview](https://github.com/GustavVollo/Home-Credit-Default-Project/blob/main/EDA_GV_withModel.Rmd)
+## [Home credit default project overview](https://github.com/GustavVollo/Home-Credit-Default-Project)
 > Home Credit, a leading loan provider, faces the challenge of evaluating the risk associated with lending to individuals lacking a credit history. Successful loan repayments, including associated fees, are important for the company's revenue stream. To enhance the decision-making process, our project aims to develop a model that surpasses the current model's efficacy by at least 2%, leading to substantial financial gains and reduced risks for Home Credit. Currently, our focus is performing EDA on the datasets provided by Home Credit, identifying key predictors, uncovering outliers, and addressing missing data. By the end of this analysis, we aim to have a well-defined set of potential variables for the final model and strategies for imputing missing data where necessary. As we progress, our overarching goal remains to design a model that accurately predicts loan repayment behaviors, thereby minimizing the risk of default.
